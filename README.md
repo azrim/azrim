@@ -13,7 +13,8 @@ My name is Azrim, an Android and tech enthusiast and weebs 😽
 [Aone-kangbot (telegram userbot)](https://github.com/aone-id/aone-kangbot.git)
 
 ## Contacts
-Email: mirzaspc@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/-mirzaspc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mirzaspc@gmail.com)](mailto:mirzaspc@gmail.com)
+
 Discord: azrim#7272
 
 [Telegram](https://t.me/azrim89)

@@ -1,3 +1,4 @@
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 # Hi there 👋
 
 My name is Azrim, an Android and tech enthusiast and weebs 😽
@@ -16,4 +17,3 @@ My name is Azrim, an Android and tech enthusiast and weebs 😽
 
 ## Stats
 ![azrim's github](https://github-readme-stats.vercel.app/api?username=azrim&show_icons=true&hide_border=true)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)

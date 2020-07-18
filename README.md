@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 ![deuterium's github](https://github-readme-stats.vercel.app/api?username=azrim&show_icons=true&hide_border=true)
 
 # Hi there 👋

@@ -3,7 +3,7 @@
 
 # Hi there 👋
 
-My name is Azrim
+My name is Azrim, an Android and tech enthusiast and weebs 😽
 
 ## My works
 [Official FlokoROM for Redmi Note8/T (ginkgo/willow)](https://github.com/azrim/device_xiaomi_ginko.git)

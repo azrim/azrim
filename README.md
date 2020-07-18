@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+
 # Hi there 👋
 
 My name is Azrim
@@ -10,9 +12,9 @@ My name is Azrim
 [Aone-kangbot (telegram userbot)](https://github.com/aone-id/aone-kangbot.git)
 
 ## Contacts
-Discord azrim#7272
+Email: mirzaspc@gmail.com
+Discord: azrim#7272
 
 [Telegram](https://t.me/azrim89)
 
 [Telegram Channel](https://t.me/azrimkang)
-

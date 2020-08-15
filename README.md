@@ -4,9 +4,9 @@
 My name is Azrim, an Android and tech enthusiast and weebs 😽
 
 ## My works
-[Official FlokoROM for Redmi Note8/T (ginkgo/willow)](https://github.com/azrim/device_xiaomi_ginko.git)
+[Official FlokoROM for Redmi Note8/T (ginkgo/willow)](https://github.com/azrim/device_xiaomi_ginkgo.git)
 
-[SiLonT kernel for Redmi Note8/T (ginkgo/willow)](https://github.com/azrim/kernel_xiaomi_ginkgo.git)
+[SiLonT kernel for Redmi Note8/T (ginkgo/willow)](https://github.com/silont/kernel_xiaomi_ginkgo.git)
 
 [Aone-kangbot (telegram userbot)](https://github.com/aone-id/aone-kangbot.git)
 

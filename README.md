@@ -5,15 +5,20 @@
 <h1 align="center"> 👋 Hi There </h1>
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>My name is Azrim. I'm not dev, just an Android Enthusiast and like to watch Anime.
-  </samp>
+  <samp>
+- My name is Azrim. I'm not dev, just an Android Enthusiast and like to watch Anime.
 - 🔭 I’m currently Maintaining Official Derpfest for Poco X3 NFC (Surya).
 - 👨🏼‍💻 Lead of SiLonT Project.
 - 👯 I’m looking to collaborate on anything related Android Development.
-- 📫 How to reach me: [Telegram](https://t.me/azrim89/) , [Email](mailto:mirzaspc@gmail.com)
 - 😄 Pronouns: Weebs, just weebs.
+  </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=azrim" alt="https://github.com/azrim" />
+  <a href="https://t.me/azrim89"><img src="https://github.com/azrim/azrim/raw/master/assets/telegram.svg"/></a>
+  <a href="https://t.me/azrim89"><img src="https://github.com/azrim/azrim/raw/master/assets/discord.svg"/></a>
+  <a href="mailto:mirzaspc@gmail.com"><img src="https://github.com/azrim/azrim/raw/master/assets/gmail.svg"/></a>
+  <a href="https://forum.xda-developers.com/member.php?u=5849399"><img src="https://github.com/azrim/azrim/raw/master/assets/xda.svg"/></a>
+  <a href="https://paypal.me/azrim89"><img src="https://github.com/azrim/azrim/raw/master/assets/paypal.svg"/></a>
 </p>
 
 <h2 align="center">💻 My Works </h2>

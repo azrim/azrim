@@ -27,7 +27,6 @@
 <p align="center"><a href="https://github.com/silont-project/silont-clang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=silont-project&repo=silont-clang&hide_border=true&show_owner=false"></a></p>
 <h3 align="center">Deprecated</h3>
 <p align="center"><a href="https://github.com/silont-project/kernel_xiaomi_ginkgo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=silont-project&repo=kernel_xiaomi_ginkgo&hide_border=true&show_owner=false"></a></p>
-<h3 align="center">Deprecated</h3>
 <p align="center"><a href="https://github.com/silont-project/device_xiaomi_ginkgo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=silont-project&repo=device_xiaomi_ginkgo&hide_border=true&show_owner=false"></a></p>
 <p align="center"><a href="https://github.com/aone-id/aone-kangbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aone-id&repo=aone-kangbot&hide_border=true&show_owner=false"></a></p>
 

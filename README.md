@@ -18,7 +18,7 @@
   <a href="https://t.me/azrim89"><img src="https://github.com/azrim/azrim/raw/master/assets/telegram.svg"/></a>
   <a href="https://t.me/azrim89"><img src="https://github.com/azrim/azrim/raw/master/assets/discord.svg"/></a>
   <a href="mailto:mirzaspc@gmail.com"><img src="https://github.com/azrim/azrim/raw/master/assets/gmail.svg"/></a>
-  <a href="https://forum.xda-developers.com/member.php?u=5849399"><img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xdadevelopers.svg/></a>
+  <a href="https://forum.xda-developers.com/member.php?u=5849399"><img height="50" width="50" src="https://iconhelper.cn/svg/brands/xda-developers.svg/></a>
   <a href="https://paypal.me/azrim89"><img src="https://github.com/azrim/azrim/raw/master/assets/paypal.svg"/></a>
 </p>
 
@@ -32,6 +32,6 @@
 <p align="center"><a href="https://github.com/aone-id/aone-kangbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aone-id&repo=aone-kangbot&hide_border=true&show_owner=false"></a></p>
 
 <h2  align="center">📊 Stats </h2>
-![azrim's github](https://github-readme-stats.vercel.app/api?username=azrim&show_icons=true&hide_border=true)
+<p align="center"><a href="https://github.com/azrim"><img src="https://github-readme-stats.vercel.app/api?username=azrim&show_icons=true&hide_border=true"></a></p>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>

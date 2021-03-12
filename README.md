@@ -25,6 +25,7 @@
 <h2 align="center">💻 My Works </h2>
 <h3 align="center">Active</h3>
 <p align="center"><a href="https://github.com/DerpFest-Devices/device_xiaomi_surya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DerpFest-Devices&repo=device_xiaomi_surya&hide_border=true&show_owner=false"></a></p>
+<p align="center"><a href="https://github.com/silont-project/kernel_xiaomi_surya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=silont-project&repo=kernel_xiaomi_surya&hide_border=true&show_owner=true"></a></p>
 <p align="center"><a href="https://github.com/silont-project/silont-clang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=silont-project&repo=silont-clang&hide_border=true&show_owner=false"></a></p>
 <h3 align="center">Deprecated</h3>
 <p align="center"><a href="https://github.com/silont-project/kernel_xiaomi_ginkgo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=silont-project&repo=kernel_xiaomi_ginkgo&hide_border=true&show_owner=false"></a></p>
